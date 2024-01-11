@@ -200,9 +200,10 @@
     tags:
     - ShoesRequiredStepTriggerImmune
     - DoorBumpOpener
+    - CanPilot
+  - type: Emoting
   - type: TTS
     voice: Borgs
-  - type: Emoting
   - type: GuideHelp
     guides:
       - Cyborgs
@@ -224,3 +225,4 @@
   - type: ActivatableUIRequiresLock
   - type: AccessReader
     access: [["Command"], ["Research"]]
+  - type: ShowSecurityIcons

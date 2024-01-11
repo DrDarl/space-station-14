@@ -203,6 +203,9 @@
   id: BoxHug
 
 - type: Tag
+  id: Burnt
+
+- type: Tag
   id: BrassInstrument
 
 - type: Tag
@@ -219,6 +222,9 @@
 
 - type: Tag
   id: BulletFoam
+
+- type: Tag
+  id: BypassDropChecks
 
 - type: Tag
   id: BypassInteractionRangeChecks
@@ -291,6 +297,9 @@
   id: Catwalk
 
 - type: Tag
+  id: CentrifugeCompatible
+
+- type: Tag
   id: Chicken
 
 - type: Tag
@@ -301,6 +310,9 @@
 
 - type: Tag
   id: CigPack
+
+- type: Tag
+  id: Cleaver
 
 - type: Tag
   id: ClothMade
@@ -460,6 +472,9 @@
 
 - type: Tag
   id: EmitterBolt
+
+- type: Tag
+  id: Enzyme
 
 - type: Tag
   id: ExplosivePassable
@@ -645,6 +660,9 @@
   id: Hotsauce
 
 - type: Tag
+  id: Ice
+
+- type: Tag
   id: Igniter
 
 - type: Tag #Drop this innate tool instead of deleting it.
@@ -676,6 +694,9 @@
 
 - type: Tag
   id: KeyedInstrument
+
+- type: Tag
+  id: KitchenKnife
 
 - type: Tag
   id: Knife
@@ -779,7 +800,13 @@
   id: MicrowaveSelfUnsafe
 
 - type: Tag
+  id: MindShield
+
+- type: Tag
   id: MindTransferTarget
+
+- type: Tag
+  id: ModularReceiver
 
 - type: Tag
   id: MonkeyCube
@@ -799,7 +826,6 @@
 - type: Tag
   id: Multitool
 
-
 - type: Tag
   id: NoBlockAnchoring
 
@@ -816,6 +842,9 @@
   id: Ore
 
 - type: Tag
+  id: Packet
+
+- type: Tag
   id: Payload # for grenade/bomb crafting
 
 - type: Tag
@@ -823,6 +852,12 @@
 
 - type: Tag
   id: Pancake
+
+- type: Tag
+  id: Pen
+
+- type: Tag
+  id: PepperShaker
 
 - type: Tag
   id: PercussionInstrument
@@ -922,6 +957,9 @@
   id: ReinforcedGlassShard
 
 - type: Tag
+  id: RifleStock
+
+- type: Tag
   id: RipleyCentralControlModule
 
 - type: Tag
@@ -944,6 +982,12 @@
 
 - type: Tag
   id: RollingPaper
+
+- type: Tag
+  id: RollingPin
+
+- type: Tag
+  id: SaltShaker
 
 - type: Tag
   id: SalvageExperiment
@@ -982,6 +1026,9 @@
   id: SkeletonMotorcycleKeys
 
 - type: Tag
+  id: Skewer
+
+- type: Tag
   id: SmallAIChip
 
 - type: Tag
@@ -992,9 +1039,6 @@
 
 - type: Tag
   id: Soap
-
-- type: Tag
-  id: SolarAssemblyPart
 
 - type: Tag
   id: SolarTrackerElectronics
@@ -1152,17 +1196,4 @@
 - type: Tag
   id: WriteIgnoreStamps
 
-- type: Tag
-  id: RifleStock
-
-- type: Tag
-  id: ModularReceiver
-
-- type: Tag
-  id: MindShield
-
-- type: Tag
-  id:  boots
-
-- type: Tag
-  id: CleansForensics
+# PUT YOUR TAGS IN ALPHABETICAL ORDER

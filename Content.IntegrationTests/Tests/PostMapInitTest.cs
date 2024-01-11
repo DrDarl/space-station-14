@@ -78,6 +78,8 @@ namespace Content.IntegrationTests.Tests
             "shwrDust",
             "Tortuga",
             "TheHive",
+            "Cogmap",
+			"Shoukou",
             //end-backmen
             "Reach"
         };
